@@ -3,7 +3,7 @@
             [exercise8 :refer :all]))
                 
 (defn squear 
-  "Returns the squear of a given number"
+  "Returns the square of a given number"
   [x]
   (
     * x x
